@@ -1,0 +1,33 @@
+
+body{
+ width: 100%;
+ height: 100vh;
+ justify-content:center ;
+ align-items: center;
+
+}
+
+tbody,tr,th,td{
+  border: 1px solid white;
+  padding: 5px;
+}
+
+
+.app {
+  margin: 20px;
+}
+
+.movie-list {
+  margin-top: 20px;
+}
+
+.genre-filter {
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin-right: 10px;
+}
+table{
+ width: 75%;
+}
